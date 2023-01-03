@@ -1,2 +1,4 @@
+# 42 Project
 # FT_PRINTF
-42 Project
+
+Repication of printf behavior - without multi flags combinations
